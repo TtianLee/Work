@@ -14,12 +14,6 @@ www.nthu.cc
 
 用美区id登陆下载Shadowrocket，然后再从nthu里导入
 
-账号jacobmasonoagt@hotmail.com
-
-密码Clclcl.520
-
-
-
 ## zotero
 
 [点击进入下载zotero](https://www.zotero.org/download/connectors)应该是一个网页抓取插件和一个本地应用
